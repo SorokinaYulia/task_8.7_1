@@ -1,0 +1,34 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 243, 227);
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+header {
+
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+h1 {
+
+    color: #181505;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.card-header, .card-footer{
+
+    background-color: darksalmon;
+}
